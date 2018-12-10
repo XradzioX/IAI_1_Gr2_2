@@ -13,3 +13,9 @@ body {
     background-color: red;
     display: none;
 }
+.header {
+    color: blue;
+}
+.header{
+    display: block;
+}
